@@ -16,3 +16,11 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Scala / sbt
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
